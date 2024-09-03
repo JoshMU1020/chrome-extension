@@ -21,6 +21,20 @@ button {
     color: white;
 }
 
+#delete-btn {
+    background: white;
+    border: 1px solid #5f9341;
+    color: #5f9341;;
+}
+
+#delete-btn:hover {
+    background: rgb(206, 206, 206);
+}
+
+#delete-btn:active {
+    background: white;
+}
+
 button:hover {
     background: #82a171;
 }
